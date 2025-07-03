@@ -1,4 +1,8 @@
-# DiabetesAI
+# 🩺 DiabetesAI
+
+A comprehensive web-based platform to democratize diabetes risk assessment through advanced machine learning.
+
+---
 
 ## 📊 Introduction
 
@@ -30,3 +34,38 @@
 - **🔒 Transparency & Limitations**
   - Clearly communicates that the predictions are **not a substitute for professional medical advice**.
   - Provides insights into the model’s strengths and potential biases, encouraging responsible use.
+
+---
+
+## 🚀 Features
+
+- 🧮 Logistic regression-based diabetes risk prediction
+- 📊 Real-time result display with intuitive visuals
+- 🔍 Transparent model details for educational purposes
+- 🌐 Fully responsive web interface
+
+---
+
+## ⚙️ Installation
+
+Follow these simple steps to get **DiabetesAI** running on your local machine:
+
+### ✅ Prerequisites
+
+- Install **Node.js** and **npm**: [Download Node.js](https://nodejs.org)
+
+### 🛠️ Steps
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/adithy19/DiabetesAI.git
+   cd DiabetesAI
+2. **Install dependencies**
+
+   ```bash
+   npm install
+3. **Start the Development Server**
+
+   ```bash
+   npm run dev   
