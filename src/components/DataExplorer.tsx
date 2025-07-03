@@ -148,7 +148,7 @@ const DataExplorer: React.FC<DataExplorerProps> = ({ dataset }) => {
       <div className="mb-8">
         <h2 className="text-3xl font-bold text-gray-900 mb-4">Real-Time Data Analysis of Diabetes</h2>
         {/* <p className="text-lg text-gray-600">
-          Comprehensive analysis of diabetes risk factors from the classic Pima Indians Diabetes Database.
+          Comprehensive analysis of diabetes risk factors from the 0classic Pima Indians Diabetes Database.
         </p> */}
       </div>
 
